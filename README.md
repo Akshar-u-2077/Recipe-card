@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Akshar-u-2077/Recipe-card.git](https://github.com/Akshar-u-2077/Recipe-card.git)
 - Live Site URL: [https://akshar-u-2077.github.io/Recipe-card/](https://akshar-u-2077.github.io/Recipe-card/)
 
 ## My process
